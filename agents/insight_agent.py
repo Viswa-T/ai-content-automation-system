@@ -1,5 +1,4 @@
 def generate_insights(text):
-    print("📊 Generating content insights...")
     
     return {
         "engagement_score": "High",
