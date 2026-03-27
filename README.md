@@ -1,4 +1,4 @@
-# 🚀 AI Enterprise Content Automation System
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a045d91b-7a14-48e4-8491-89648bee2849" /># 🚀 AI Enterprise Content Automation System
 
 ## 🧠 Overview
 An AI-powered multi-agent system that transforms raw documents into optimized, platform-specific content using a structured intelligent pipeline.
@@ -40,3 +40,26 @@ Instead of a single AI model, our system uses **modular agents** to simulate rea
 ---
 
 ## 🏗️ Architecture (Agent Pipeline)
+Our system follows a modular multi-agent pipeline where each agent performs a specific transformation step:
+
+User Input
+↓
+File Handler
+↓
+OCR Agent
+↓
+Text Processor
+↓
+Content Agent
+↓
+Optimization Agent
+↓
+Compliance Agent
+↓
+Output Agent
+↓
+Insight Agent
+↓
+Final Output
+
+![AI Pipeline](https://github.com/user-attachments/assets/8ee0d36c-ad3f-41cf-8cec-d9585ff2a70b)
