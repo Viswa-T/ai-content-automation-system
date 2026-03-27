@@ -42,24 +42,6 @@ Instead of a single AI model, our system uses **modular agents** to simulate rea
 ## 🏗️ Architecture (Agent Pipeline)
 Our system follows a modular multi-agent pipeline where each agent performs a specific transformation step:
 
-User Input
-↓
-File Handler
-↓
-OCR Agent
-↓
-Text Processor
-↓
-Content Agent
-↓
-Optimization Agent
-↓
-Compliance Agent
-↓
-Output Agent
-↓
-Insight Agent
-↓
-Final Output
+User Input → File Handler → OCR → Clean → Enhance → Optimize → Validate → Generate → Analyze → Final Output
 
 ![AI Pipeline](https://github.com/user-attachments/assets/8ee0d36c-ad3f-41cf-8cec-d9585ff2a70b)
