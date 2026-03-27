@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a045d91b-7a14-48e4-8491-89648bee2849" /># 🚀 AI Enterprise Content Automation System
+# 🚀 AI Enterprise Content Automation System
 
 ## 🧠 Overview
 An AI-powered multi-agent system that transforms raw documents into optimized, platform-specific content using a structured intelligent pipeline.
